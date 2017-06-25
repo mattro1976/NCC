@@ -1,0 +1,2 @@
+# NCC
+Noob Country Coding
